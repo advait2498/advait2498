@@ -7,7 +7,7 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]((https://www.linkedin.com/in/advait-m-kulkarni/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/advait-m-kulkarni/)
 
 ## GitHub Stats
 
